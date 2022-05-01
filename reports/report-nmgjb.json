@@ -1,0 +1,20 @@
+[
+  {
+    "Email": "Group1User2@blocklychain.io",
+    "Password": "XksKrhJZ41",
+    "FirstName": "Firstname_2",
+    "LastName": "Lastname_2",
+    "CustomerId": "6268fefc55341c36ed0f2466",
+    "HomeId": "6268fefc55341c36ed0f2468",
+    "createdAt": "2022-04-27T08:29:48.855Z"
+  },
+  {
+    "Email": "Group1User1@blocklychain.io",
+    "Password": "udnZt4fDme",
+    "FirstName": "Firstname_1",
+    "LastName": "Lastname_1",
+    "CustomerId": "6268fefc55341c36ed0f2465",
+    "HomeId": "6268fefc55341c36ed0f2467",
+    "createdAt": "2022-04-27T08:29:48.852Z"
+  }
+]

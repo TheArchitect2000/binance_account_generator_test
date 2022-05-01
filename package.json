@@ -1,0 +1,25 @@
+{
+  "name": "binance-account-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/gramezan/binance-account-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gramezan/binance-account-generator/issues"
+  },
+  "homepage": "https://github.com/gramezan/binance-account-generator#readme",
+  "dependencies": {
+    "binance-api-node": "^0.11.36",
+    "generate-password": "^1.7.0",
+    "mongodb": "^4.4.0",
+    "web3": "^1.7.3"
+  }
+}

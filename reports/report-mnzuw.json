@@ -1,0 +1,24 @@
+[
+  {
+    "Email": "Group1User1@blocklychain.io",
+    "Password": "V8veFdDkwf",
+    "FirstName": "Firstname_1",
+    "LastName": "Lastname_1",
+    "CustomerId": "626a54ce0260fb37f4dfc8cd",
+    "HomeId": "626a54ce0260fb37f4dfc8ce",
+    "accountAddress": "0xBe2DbbCEcA99C6e84E621dC52fFE95de1C6E2399",
+    "accountPrivateKey": "0x164381452a0e03c47a1e9211ad6791b1272da69f530b8f373394251a76cafac2",
+    "createdAt": "2022-04-28T08:48:14.518Z"
+  },
+  {
+    "Email": "Group1User2@blocklychain.io",
+    "Password": "RKRcDnv77j",
+    "FirstName": "Firstname_2",
+    "LastName": "Lastname_2",
+    "CustomerId": "626a54ce0260fb37f4dfc8cf",
+    "HomeId": "626a54ce0260fb37f4dfc8d0",
+    "accountAddress": "0xc81FE23FF5F32d186367A6e7e593c6D754Bff078",
+    "accountPrivateKey": "0x5d9266cc3bd96e05231bfcba7c4a59f714676e44e4a9065afe0adbe867cbc3bb",
+    "createdAt": "2022-04-28T08:48:14.534Z"
+  }
+]
