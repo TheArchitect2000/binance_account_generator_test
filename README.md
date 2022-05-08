@@ -14,11 +14,24 @@
 ```
 
 ### How to use
+
+ 
 After installation
 ```shell
     #open app
-    cd dirname
-    node bkcbulk.js
+    $ cd dirname
+    $ cd binance-account-generator
+    
+    ### To create account on BKC node and Binance network, use this command.
+    $ node bulk-customer-and-account-creator.js
+    
+    OR
+    
+    ### To create account just on BKC node, use this command.
+    $ node bkcbulk.js
+    ```
+    
+    ```shell
         bkccustomergen started
         connecting to db...
         connected to db successfully
