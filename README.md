@@ -31,7 +31,7 @@ After installation
     $ node bkcbulk.js
     ```
     
-    ```shell
+    ```shell2
         bkccustomergen started
         connecting to db...
         connected to db successfully
