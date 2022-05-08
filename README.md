@@ -5,12 +5,12 @@
 ### Installation
 ```shell
     #create a folder
-    mkdir dirname
-    cd dirname
+    $ mkdir dirname
+    $ cd dirname
     #clone project
-    git clone https://github.com/gramezan/binance-account-generator.git
+    $ git clone https://github.com/gramezan/binance-account-generator.git
     #install dependencies 
-    npm install
+    $ npm install
 ```
 
 ### How to use
@@ -42,13 +42,13 @@ After installation
         Please enter a command
     
     #for adding new accounts use bellow command for adding 20 customers
-    add 20
+    $ add 20
     
     #after this 20 customers plus homes this program creates a new file with random name in ./reports folder
-    list last    
+    $ list last    
     
     #for closing program
-    close
+    $ close
 ```
 
 ### sample of result is 
