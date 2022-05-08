@@ -8,7 +8,7 @@
     mkdir dirname
     cd dirname
     #clone project
-    git clone https://github.com/gramezan/accounts-manager.git
+    git clone https://github.com/gramezan/binance-account-generator.git
     #install dependencies 
     npm install
 ```
