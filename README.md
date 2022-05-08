@@ -14,7 +14,6 @@
 ```
 
 ### How to use
-
  
 After installation
 ```shell
@@ -22,16 +21,19 @@ After installation
     $ cd dirname
     $ cd binance-account-generator
     
-    ### To create account on BKC node and Binance network, use this command.
+    # To create account on BKC node and Binance network, use this command.
     $ node bulk-customer-and-account-creator.js
     
     OR
     
-    ### To create account just on BKC node, use this command.
+    # To create account just on BKC node, use this command.
     $ node bkcbulk.js
-    ```
+```
     
-    ```shell2
+```aaaa
+    
+    # You can see the result below.
+    
         bkccustomergen started
         connecting to db...
         connected to db successfully
